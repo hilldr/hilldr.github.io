@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HIOs on David R. Hill</title>
+    <link>https://hilldr.github.io/tags/hios/</link>
+    <description>Recent content in HIOs on David R. Hill</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 18 Dec 2018 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://hilldr.github.io/tags/hios/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Modeling Neonatal Microbial Colonization in Human Intestinal Organoids</title>
+      <link>https://hilldr.github.io/project/hios/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://hilldr.github.io/project/hios/</guid>
+      <description>All multicellular organisms have a problem: surviving in a world that is already fully occupied by bacteria and other single celled organisms. We call this problem symbiosis. The primary solution to this problem is mutualism, which intimately links the survival of individual organisms and as a result has shaped the evolution of both bacterial and multicellular life.
+This interplay is central to the maturation and function of the human gastrointestinal tract.</description>
+    </item>
+    
+    <item>
+      <title>Real-time measurement of epithelial barrier permeability in human intestinal organoids</title>
+      <link>https://hilldr.github.io/project/hio-microinjection/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://hilldr.github.io/project/hio-microinjection/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

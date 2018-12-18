@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on David R. Hill</title>
+    <link>https://hilldr.github.io/publication/</link>
+    <description>Recent content in Publications on David R. Hill</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://hilldr.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bacterial colonization stimulates a complex physiological response in the immature human intestinal epithelium</title>
+      <link>https://hilldr.github.io/publication/elife_2017/</link>
+      <pubDate>Tue, 07 Nov 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://hilldr.github.io/publication/elife_2017/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>emacs on David R. Hill</title>
+    <link>https://hilldr.github.io/tags/emacs/</link>
+    <description>Recent content in emacs on David R. Hill</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 18 Dec 2018 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://hilldr.github.io/tags/emacs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Reproducible Research Workflow</title>
+      <link>https://hilldr.github.io/project/reproducible_research/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://hilldr.github.io/project/reproducible_research/</guid>
+      <description>This sections will include descriptions of how I approach reproducible research</description>
+    </item>
+    
+  </channel>
+</rss>
