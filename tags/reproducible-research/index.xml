@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>reproducible-research on David R. Hill</title>
+    <title>reproducible research on David R. Hill</title>
     <link>https://hilldr.github.io/tags/reproducible-research/</link>
-    <description>Recent content in reproducible-research on David R. Hill</description>
+    <description>Recent content in reproducible research on David R. Hill</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 07 Dec 2017 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://hilldr.github.io/tags/reproducible-research/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Real-time Measurement of Epithelial Barrier Permeability in Human Intestinal Organoids</title>
+      <link>https://hilldr.github.io/publication/jove_2017/</link>
+      <pubDate>Thu, 07 Dec 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://hilldr.github.io/publication/jove_2017/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Real-time measurement of epithelial barrier permeability in human intestinal organoids</title>
