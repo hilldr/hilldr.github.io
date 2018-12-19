@@ -31,7 +31,7 @@
     </item>
     
     <item>
-      <title>Projects</title>
+      <title>Active projects</title>
       <link>https://hilldr.github.io/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
@@ -46,18 +46,6 @@
       
       <guid>https://hilldr.github.io/home/hero/</guid>
       <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release   Star</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://hilldr.github.io/home/about/</link>
-      <pubDate>Fri, 12 Oct 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://hilldr.github.io/home/about/</guid>
-      <description>About Me My research effort is focused on understanding the interdependence of microbial and human life and the mechanisms by which this reciprocal interaction is negotiated.
-I apply state-of-the-art cell culture systems and data science approaches with an emphasis on reproducible and open access research.
-I strive towards a collaborative, multidisciplinary, team-based approach centered on open communication and defined goals.
-I place a high value on effective scientific communication as an essential process a tool for identifying and addressing novel ideas and solutions among groups with broad expertise and experience.</description>
     </item>
     
     <item>
@@ -88,15 +76,6 @@ I place a high value on effective scientific communication as an essential proce
     </item>
     
     <item>
-      <title>Selected Talks</title>
-      <link>https://hilldr.github.io/home/talks_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>https://hilldr.github.io/home/talks_selected/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://hilldr.github.io/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
@@ -106,14 +85,55 @@ I place a high value on effective scientific communication as an essential proce
     </item>
     
     <item>
+      <title>Selected Talks</title>
+      <link>https://hilldr.github.io/home/talks_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://hilldr.github.io/home/talks_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hilldr.github.io/home/about/</link>
+      <pubDate>Fri, 12 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://hilldr.github.io/home/about/</guid>
+      <description>About Me My research effort is focused on understanding the interdependence of microbial and human life and the mechanisms by which this reciprocal interaction is negotiated.
+I apply state-of-the-art cell culture systems and data science approaches with an emphasis on reproducible and open access research.
+I strive towards a collaborative, multidisciplinary, team-based approach centered on open communication and defined goals.
+I place a high value on effective scientific communication as an essential process a tool for identifying and addressing novel ideas and solutions among groups with broad expertise and experience.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://hilldr.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://hilldr.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic Experience</title>
+      <link>https://hilldr.github.io/home/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hilldr.github.io/home/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Teaching</title>
       <link>https://hilldr.github.io/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://hilldr.github.io/home/teaching/</guid>
-      <description>This is an example of using the custom widget to create your own homepage section.
-I am a teaching instructor for the following courses at University X:
- CS101: An intro to computer science CS102: An intro to computer science CS103: An intro to computer science CS104: An intro to computer science CS105: An intro to computer science CS106: An intro to computer science CS107: An intro to computer science  </description>
+      <description>University of Michigan:
+ PIBS 503: Research Responsibility &amp;amp; Ethics (Instructor, Fall 2018)  Eastern Michigan University
+ CLSC 335: Clinical Immunology (Course Director, Winter 2018)  Case Western Reserve University
+ Graduate Biostatistics (Teaching Assistant, Summer 2010)  Kent State University
+ Introductory Biology (Supplemental Instructor, Fall 2007) Evolutionary Biology (Supplemental Instructor, Winter 2008)  </description>
     </item>
     
     <item>
@@ -131,24 +151,6 @@ I am a teaching instructor for the following courses at University X:
       <pubDate>Mon, 23 Jul 2018 00:00:00 -0400</pubDate>
       
       <guid>https://hilldr.github.io/home/search/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://hilldr.github.io/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>https://hilldr.github.io/home/contact/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Experience</title>
-      <link>https://hilldr.github.io/home/experience/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://hilldr.github.io/home/experience/</guid>
       <description></description>
     </item>
     
