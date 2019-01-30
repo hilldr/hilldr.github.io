@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 12 Oct 2018 00:00:00 -0400</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -33,12 +33,20 @@
     </item>
     
     <item>
-      <title>A Reproducible Research Workflow</title>
+      <title>A System for Reproducible Research</title>
       <link>https://hilldr.github.io/project/reproducible_research/</link>
       <pubDate>Tue, 18 Dec 2018 00:00:00 -0500</pubDate>
       
       <guid>https://hilldr.github.io/project/reproducible_research/</guid>
-      <description>&lt;p&gt;This sections will include descriptions of how I approach reproducible research&lt;/p&gt;
+      <description>&lt;p&gt;A fundamental assumption that serves as the philosophical engine of modern science is that the phenomena we observe and measure in the lab are representative of universal phenomena. Intestinal epithelial cells in the lab express antimicrobial peptides when provoked because presumably this response is a property of all intestinal epithelial cells. Or, taking a more classical example, a feather and a cannonball fall to the earth at the same rate in a vacuum because acceleration due to gravity acts on them equally. For science to be useful these observations must be true &lt;em&gt;in every case where identical conditions are present&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Replicating experimental conditions exactly has always been difficult. The problem is particularly significant in the biomedical sciences where the conditions to replicate an experiment may require specialized skills, equipment, and reagents. And in many cases the experimental conditions may not be well defined, or may not be completely definable within the current limitations of our understanding. Consider the complexity of a single bacterial cell: even &lt;em&gt;E. coli/&lt;/em&gt; K-12, perhaps the single best characterized organism known to science, behaves in ways that do not fit our current understanding or predictions. This type of failure of reproducibility is intrinsic to science; we simply don&amp;rsquo;t know what we don&amp;rsquo;t know. Early attempts at skin grafts were widely variable, with some surgeons publishing anecdotal reports of complete success and others reporting the miserable failure of these techniques. At the time, the HLA system was entirely unknown and the notion that we might match donor and recipient tissues according to some biological criteria didn&amp;rsquo;t exist. The contrast between successful skin grants and failed skin grafts and the investigations that followed eventually resulted in the HLA tissue typing system that has enabled modern tissue transplant procedures and has by now saved many thousands of lives.&lt;/p&gt;
+
+&lt;p&gt;A second and more commonplace challenge to reproducibility are simple lapses in our technique: memories fail, training quality varies, files get deleted and notebooks get lost. People drop test tubes, knock over the Bunsen burner, contaminate the cell culture, and just generally behave like the imperfect beings we always will be. The solutions here are as simple as the explanations: keep better documentation and try again until you get it right. Well&amp;hellip; simple in concept, if not in practice.&lt;/p&gt;
+
+&lt;p&gt;A third challenge to reproducibility is more insidious. Many scientific observations are subject to a certain degree of interpretation. Two reasonable scientists can disagree on the best statistical test for a given hypothesis. One scientist may think that removal of certain samples from analysis is justified while another may disagree. On their own these kinds of debates are not harmful. Things get complicated of course when we consider the potential for conflicts of interest between the interpretation of scientific results and the prospects for career-making publications and grant applications. The unfortunate truth is that our scientific results are not entirely independent of our career trajectory, despite good science demanding that the experimental design and interpretation be independent of personal and political concerns. Many solutions have been proposed to this conundrum over the years, and there are many broad scale changes to our system that I would personally support but will not elaborate on here&lt;/p&gt;
+
+&lt;p&gt;For now, my aims are more localized. For the past several years I have invested time and effort in developing a workflow for documenting my experiments and data analysis in a system that allows anyone to generate the same results from the raw data files and to follow my explicit rationale, as documented in computer code, for every step of the process. This series of blog posts will address my efforts to tackle reproducibility in my own work by producing &lt;strong&gt;better and more accessible documentation of methods&lt;/strong&gt; and &lt;strong&gt;maximum transparency in data analysis&lt;/strong&gt;. My hope is that these posts can serve as a teaching resource for members of my research team and the larger community.&lt;/p&gt;
 </description>
     </item>
     

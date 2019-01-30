@@ -262,16 +262,7 @@
     <url>
     
       <loc>https://hilldr.github.io/</loc>
-      <lastmod>2017-10-15T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://hilldr.github.io/tags/hios/</loc>
-      <lastmod>2018-12-18T00:00:00-05:00</lastmod>
+      <lastmod>2018-10-12T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -281,6 +272,15 @@
     
       <loc>https://hilldr.github.io/categories/hios/</loc>
       <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://hilldr.github.io/tags/hios/</loc>
+      <lastmod>2018-12-18T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     

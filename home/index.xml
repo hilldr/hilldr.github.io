@@ -7,10 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 12 Oct 2018 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://hilldr.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://hilldr.github.io/home/about/</link>
+      <pubDate>Fri, 12 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://hilldr.github.io/home/about/</guid>
+      <description>About Me My research effort is focused on understanding the interdependence of microbial and human life and the mechanisms by which this reciprocal interaction is negotiated.
+I apply state-of-the-art cell culture systems and data science approaches with an emphasis on reproducible and open access research.
+I strive towards a collaborative, multidisciplinary, team-based approach centered on open communication and defined goals.
+I place a high value on effective scientific communication as an essential process a tool for identifying and addressing novel ideas and solutions among groups with broad expertise and experience.</description>
+    </item>
     
     <item>
       <title></title>
@@ -18,15 +30,6 @@
       <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
       
       <guid>https://hilldr.github.io/home/hero_carousel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent Posts</title>
-      <link>https://hilldr.github.io/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>https://hilldr.github.io/home/posts/</guid>
       <description></description>
     </item>
     
@@ -94,18 +97,6 @@
     </item>
     
     <item>
-      <title></title>
-      <link>https://hilldr.github.io/home/about/</link>
-      <pubDate>Fri, 12 Oct 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://hilldr.github.io/home/about/</guid>
-      <description>About Me My research effort is focused on understanding the interdependence of microbial and human life and the mechanisms by which this reciprocal interaction is negotiated.
-I apply state-of-the-art cell culture systems and data science approaches with an emphasis on reproducible and open access research.
-I strive towards a collaborative, multidisciplinary, team-based approach centered on open communication and defined goals.
-I place a high value on effective scientific communication as an essential process a tool for identifying and addressing novel ideas and solutions among groups with broad expertise and experience.</description>
-    </item>
-    
-    <item>
       <title>Contact</title>
       <link>https://hilldr.github.io/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
@@ -134,6 +125,15 @@ I place a high value on effective scientific communication as an essential proce
  CLSC 335: Clinical Immunology (Course Director, Winter 2018)  Case Western Reserve University
  Graduate Biostatistics (Teaching Assistant, Summer 2010)  Kent State University
  Introductory Biology (Supplemental Instructor, Fall 2007) Evolutionary Biology (Supplemental Instructor, Winter 2008)  </description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://hilldr.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://hilldr.github.io/home/posts/</guid>
+      <description></description>
     </item>
     
     <item>

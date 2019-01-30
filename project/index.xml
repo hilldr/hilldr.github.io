@@ -13,12 +13,12 @@
     
     
     <item>
-      <title>A Reproducible Research Workflow</title>
+      <title>A System for Reproducible Research</title>
       <link>https://hilldr.github.io/project/reproducible_research/</link>
       <pubDate>Tue, 18 Dec 2018 00:00:00 -0500</pubDate>
       
       <guid>https://hilldr.github.io/project/reproducible_research/</guid>
-      <description>This sections will include descriptions of how I approach reproducible research</description>
+      <description>A fundamental assumption that serves as the philosophical engine of modern science is that the phenomena we observe and measure in the lab are representative of universal phenomena. Intestinal epithelial cells in the lab express antimicrobial peptides when provoked because presumably this response is a property of all intestinal epithelial cells. Or, taking a more classical example, a feather and a cannonball fall to the earth at the same rate in a vacuum because acceleration due to gravity acts on them equally.</description>
     </item>
     
     <item>

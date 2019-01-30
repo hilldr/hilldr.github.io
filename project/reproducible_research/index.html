@@ -15,7 +15,7 @@
   
     
   
-  <meta name="description" content="This sections will include descriptions of how I approach reproducible research">
+  <meta name="description" content="This series of blog posts will address my efforts to tackle reproducibility in my own work by producing better and more accessible documentation of methods and maximum transparency in data analysis">
 
   
   <link rel="alternate" hreflang="en-us" href="https://hilldr.github.io/project/reproducible_research/">
@@ -95,12 +95,12 @@
   
   <meta property="og:site_name" content="David R. Hill">
   <meta property="og:url" content="https://hilldr.github.io/project/reproducible_research/">
-  <meta property="og:title" content="A Reproducible Research Workflow | David R. Hill">
-  <meta property="og:description" content="This sections will include descriptions of how I approach reproducible research">
+  <meta property="og:title" content="A System for Reproducible Research | David R. Hill">
+  <meta property="og:description" content="This series of blog posts will address my efforts to tackle reproducibility in my own work by producing better and more accessible documentation of methods and maximum transparency in data analysis">
   
   
     
-  <meta property="og:image" content="https://hilldr.github.io/img/headers/git-workflow-gitflow.png">
+  <meta property="og:image" content="https://hilldr.github.io/img/headers/gitflow-1.png">
   <meta property="og:locale" content="en-us">
   
   <meta property="article:published_time" content="2018-12-18T00:00:00-05:00">
@@ -112,7 +112,7 @@
 
   
 
-  <title>A Reproducible Research Workflow | David R. Hill</title>
+  <title>A System for Reproducible Research | David R. Hill</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -232,6 +232,25 @@
         
         
 
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/files/HillD_CV_complete.pdf">
+            
+            <span>CV</span>
+            
+          </a>
+        </li>
+
+        
+        
+
       
 
         
@@ -253,7 +272,7 @@
 <div class="article-header">
   
   
-    <img src="/img/headers/git-workflow-gitflow.png" class="article-banner" itemprop="image">
+    <img src="/img/headers/gitflow-1.png" class="article-banner" itemprop="image">
   
 
   <span class="article-header-caption">gitflow diagram</span>
@@ -264,7 +283,7 @@
   <div class="article-container">
 
     <div class="pub-title">
-      <h1 itemprop="name">A Reproducible Research Workflow</h1>
+      <h1 itemprop="name">A System for Reproducible Research</h1>
       <span class="pub-authors" itemprop="author">&nbsp;</span>
       <span class="float-right">
         
@@ -272,7 +291,7 @@
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=A%20Reproducible%20Research%20Workflow&amp;url=https%3a%2f%2fhilldr.github.io%2fproject%2freproducible_research%2f"
+         href="https://twitter.com/intent/tweet?text=A%20System%20for%20Reproducible%20Research&amp;url=https%3a%2f%2fhilldr.github.io%2fproject%2freproducible_research%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-twitter"></i>
       </a>
@@ -286,21 +305,21 @@
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fhilldr.github.io%2fproject%2freproducible_research%2f&amp;title=A%20Reproducible%20Research%20Workflow"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fhilldr.github.io%2fproject%2freproducible_research%2f&amp;title=A%20System%20for%20Reproducible%20Research"
          target="_blank" rel="noopener">
         <i class="fab fa-linkedin-in"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fhilldr.github.io%2fproject%2freproducible_research%2f&amp;title=A%20Reproducible%20Research%20Workflow"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fhilldr.github.io%2fproject%2freproducible_research%2f&amp;title=A%20System%20for%20Reproducible%20Research"
          target="_blank" rel="noopener">
         <i class="fab fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=A%20Reproducible%20Research%20Workflow&amp;body=https%3a%2f%2fhilldr.github.io%2fproject%2freproducible_research%2f">
+         href="mailto:?subject=A%20System%20for%20Reproducible%20Research&amp;body=https%3a%2f%2fhilldr.github.io%2fproject%2freproducible_research%2f">
         <i class="fas fa-envelope"></i>
       </a>
     </li>
@@ -314,7 +333,15 @@
     
 
     <div class="article-style" itemprop="articleBody">
-      <p>This sections will include descriptions of how I approach reproducible research</p>
+      <p>A fundamental assumption that serves as the philosophical engine of modern science is that the phenomena we observe and measure in the lab are representative of universal phenomena. Intestinal epithelial cells in the lab express antimicrobial peptides when provoked because presumably this response is a property of all intestinal epithelial cells. Or, taking a more classical example, a feather and a cannonball fall to the earth at the same rate in a vacuum because acceleration due to gravity acts on them equally. For science to be useful these observations must be true <em>in every case where identical conditions are present</em>.</p>
+
+<p>Replicating experimental conditions exactly has always been difficult. The problem is particularly significant in the biomedical sciences where the conditions to replicate an experiment may require specialized skills, equipment, and reagents. And in many cases the experimental conditions may not be well defined, or may not be completely definable within the current limitations of our understanding. Consider the complexity of a single bacterial cell: even <em>E. coli/</em> K-12, perhaps the single best characterized organism known to science, behaves in ways that do not fit our current understanding or predictions. This type of failure of reproducibility is intrinsic to science; we simply don&rsquo;t know what we don&rsquo;t know. Early attempts at skin grafts were widely variable, with some surgeons publishing anecdotal reports of complete success and others reporting the miserable failure of these techniques. At the time, the HLA system was entirely unknown and the notion that we might match donor and recipient tissues according to some biological criteria didn&rsquo;t exist. The contrast between successful skin grants and failed skin grafts and the investigations that followed eventually resulted in the HLA tissue typing system that has enabled modern tissue transplant procedures and has by now saved many thousands of lives.</p>
+
+<p>A second and more commonplace challenge to reproducibility are simple lapses in our technique: memories fail, training quality varies, files get deleted and notebooks get lost. People drop test tubes, knock over the Bunsen burner, contaminate the cell culture, and just generally behave like the imperfect beings we always will be. The solutions here are as simple as the explanations: keep better documentation and try again until you get it right. Well&hellip; simple in concept, if not in practice.</p>
+
+<p>A third challenge to reproducibility is more insidious. Many scientific observations are subject to a certain degree of interpretation. Two reasonable scientists can disagree on the best statistical test for a given hypothesis. One scientist may think that removal of certain samples from analysis is justified while another may disagree. On their own these kinds of debates are not harmful. Things get complicated of course when we consider the potential for conflicts of interest between the interpretation of scientific results and the prospects for career-making publications and grant applications. The unfortunate truth is that our scientific results are not entirely independent of our career trajectory, despite good science demanding that the experimental design and interpretation be independent of personal and political concerns. Many solutions have been proposed to this conundrum over the years, and there are many broad scale changes to our system that I would personally support but will not elaborate on here</p>
+
+<p>For now, my aims are more localized. For the past several years I have invested time and effort in developing a workflow for documenting my experiments and data analysis in a system that allows anyone to generate the same results from the raw data files and to follow my explicit rationale, as documented in computer code, for every step of the process. This series of blog posts will address my efforts to tackle reproducibility in my own work by producing <strong>better and more accessible documentation of methods</strong> and <strong>maximum transparency in data analysis</strong>. My hope is that these posts can serve as a teaching resource for members of my research team and the larger community.</p>
 
     </div>
 
