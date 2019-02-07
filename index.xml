@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Generation of lung organoids from human pluripotent stem cells in vitro.</title>
+      <link>https://hilldr.github.io/publication/my-md-folder/2019-01-01_miller2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hilldr.github.io/publication/my-md-folder/2019-01-01_miller2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Three lessons for the road ahead</title>
       <link>https://hilldr.github.io/post/teaching/end_of_year_advice/</link>
       <pubDate>Fri, 21 Dec 2018 00:00:00 -0500</pubDate>
@@ -173,15 +182,6 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://hilldr.github.io/publication/my-md-folder/2017-01-01_hill2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Real-time measurement of epithelial barrier permeability in human intestinal organoids</title>
-      <link>https://hilldr.github.io/project/hio-microinjection/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>https://hilldr.github.io/project/hio-microinjection/</guid>
       <description></description>
     </item>
     
