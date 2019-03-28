@@ -44,6 +44,14 @@
     
     <url>
     
+      <loc>https://hilldr.github.io/talk/2019_emu/2019_emu/</loc>
+      <lastmod>2018-11-27T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://hilldr.github.io/tutorial/example/</loc>
       <lastmod>2018-09-09T00:00:00-04:00</lastmod>
     </url>
@@ -278,8 +286,8 @@
     
     <url>
     
-      <loc>https://hilldr.github.io/tags/hios/</loc>
-      <lastmod>2018-12-18T00:00:00-05:00</lastmod>
+      <loc>https://hilldr.github.io/categories/hios/</loc>
+      <lastmod>2015-09-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -287,8 +295,8 @@
     
     <url>
     
-      <loc>https://hilldr.github.io/categories/hios/</loc>
-      <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+      <loc>https://hilldr.github.io/tags/hios/</loc>
+      <lastmod>2018-12-18T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
